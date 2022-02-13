@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @NateC85
+- 👋 Hi, I’m Nathan Crawford!
 - 👀 I’m interested in learning anything I can, I have been having a blast with programming!
 - 🌱 I’m currently learning to be a full-stack web developer.
-- 💞️ I’m looking to collaborate on anything that will hepl build my knowledge and skills.
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything that will help build my knowledge and skills.
+- 📫 You can reach me at natec85@gmail.com or 
+- on my LinkedIn at https://www.linkedin.com/in/nathanjcrawford/
 
 <!---
 NateC85/NateC85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
