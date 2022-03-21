@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathan Crawford,
 - 👀 I’m interested in learning anything I can, I have been having a blast with programming!
-- 🌱 I’m currently learning to be a full-stack web developer.
+- 🌱 I’m a Junior Full-Stack Developer.
 - 💞️ I’m looking to collaborate on anything that will help build my knowledge and skills.
 - 📫 You can reach me at natec85@gmail.com or 
 - on my LinkedIn at https://www.linkedin.com/in/nathanjcrawford/
