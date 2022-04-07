@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nathan Crawford,
+- 👋 Hi, I’m Nathan Crawford.
 - 👀 I’m interested in learning anything I can, I have been having a blast with programming!
 - 🌱 I’m a Junior Full-Stack Developer.
 - 💞️ I’m looking to collaborate on anything that will help build my knowledge and skills.
